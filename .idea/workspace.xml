@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ee42438-16c8-4bb8-a579-513c2652ccfb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="a896533c-e720-4bec-b152-1bab6acde899" />
+  <component name="ProjectId" id="1keiDp13GeG5HGbInPUZ6nScqyV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ee42438-16c8-4bb8-a579-513c2652ccfb" name="Default Changelist" comment="" />
+      <created>1606067340691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606067340691</updated>
+      <workItem from="1606067341883" duration="12238000" />
+      <workItem from="1606321445483" duration="366000" />
+      <workItem from="1607273386722" duration="1478000" />
+      <workItem from="1607326963342" duration="1421000" />
+      <workItem from="1608493548995" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="284" width="424" height="491" key="FileChooserDialogImpl" timestamp="1606321442298">
+      <screen x="0" y="21" width="1920" height="1011" />
+    </state>
+    <state x="743" y="284" width="424" height="491" key="FileChooserDialogImpl/0.21.1920.1011@0.21.1920.1011" timestamp="1606321442298" />
+    <state width="1874" height="266" key="GridCell.Tab.0.bottom" timestamp="1606067483204">
+      <screen x="0" y="0" width="1920" height="2112" />
+    </state>
+    <state width="1874" height="266" key="GridCell.Tab.0.bottom/0.0.1920.2112@0.0.1920.2112" timestamp="1606067483204" />
+    <state width="1874" height="266" key="GridCell.Tab.0.center" timestamp="1606067483204">
+      <screen x="0" y="0" width="1920" height="2112" />
+    </state>
+    <state width="1874" height="266" key="GridCell.Tab.0.center/0.0.1920.2112@0.0.1920.2112" timestamp="1606067483204" />
+    <state width="1874" height="266" key="GridCell.Tab.0.left" timestamp="1606067483204">
+      <screen x="0" y="0" width="1920" height="2112" />
+    </state>
+    <state width="1874" height="266" key="GridCell.Tab.0.left/0.0.1920.2112@0.0.1920.2112" timestamp="1606067483204" />
+    <state width="1874" height="266" key="GridCell.Tab.0.right" timestamp="1606067483204">
+      <screen x="0" y="0" width="1920" height="2112" />
+    </state>
+    <state width="1874" height="266" key="GridCell.Tab.0.right/0.0.1920.2112@0.0.1920.2112" timestamp="1606067483204" />
+    <state x="449" y="105" width="1012" height="737" key="SettingsEditor" timestamp="1607273567153">
+      <screen x="0" y="21" width="1920" height="1011" />
+    </state>
+    <state x="449" y="175" width="1022" height="737" key="SettingsEditor/0.0.1920.2112@0.0.1920.2112" timestamp="1606069010437" />
+    <state x="449" y="105" width="1012" height="737" key="SettingsEditor/0.21.1920.1011@0.21.1920.1011" timestamp="1607273567153" />
+  </component>
+</project>
